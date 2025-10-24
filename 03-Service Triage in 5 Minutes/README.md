@@ -301,5 +301,3 @@ curl http://localhost:8080
 | `curl http://localhost:8080` | تستش کن |
 | `kill $(pgrep myapp)` | خاموشش کن |
 | `systemctl restart myapp` | ریستارت |
-
----
